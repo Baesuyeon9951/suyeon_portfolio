@@ -11114,13 +11114,14 @@ footer.footer .social-link:hover {
 
 
 /* 추가커스텀 */
+
 .img-box{
   width: 400px;
-  height: 400px;
+  height: 400px; 
   overflow: hidden;
-  background-color: yellow;
+  /* background-color: yellow; */
   border-radius: 50% 50%;
 }
 .img-box > img{
-  width: 400px;
+  width: 100%;
 }
